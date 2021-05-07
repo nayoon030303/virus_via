@@ -1,0 +1,10 @@
+
+virus_via/EmptyProject/.vs/EmptyProject_2010/v16/ipch/
+
+*.vcxproj
+
+*.vcproj
+
+virus_via/EmptyProject/EmptyProject_2010.vcxproj.filters
+
+*.iobj

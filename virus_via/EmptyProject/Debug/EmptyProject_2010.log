@@ -1,0 +1,168 @@
+﻿  DXUT.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUT.cpp(4961,13): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  BosEnemy.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(49,42): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(49,29): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(77,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(69,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(91,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(69,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(126,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\BosEnemy.cpp(126,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemyMove.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(99,42): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(99,29): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(118,47): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(130,13): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(122,18): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(144,13): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(122,18): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(216,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemyMove.cpp(216,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemySize.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(51,42): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(51,29): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(94,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(86,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(108,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(86,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(139,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySize.cpp(139,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemySpeed.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(50,39): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(50,28): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(78,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(70,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(92,9): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(70,14): message : 'i' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(127,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\EnemySpeed.cpp(127,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FirstGamePage.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\FirstGamePage.cpp(47,47): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\FirstGamePage.cpp(59,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\FirstGamePage.cpp(65,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GameOver.cpp
+  GameSystem.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(8,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(113,18): warning C4456: 'px' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(107,9): message : 'px' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(114,18): warning C4456: 'py' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(108,9): message : 'py' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(169,15): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(170,15): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(179,10): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(180,11): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(241,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(243,15): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(244,15): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(245,48): warning C4456: 'pos' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(235,17): message : 'pos' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(245,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(245,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(258,53): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(258,42): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(277,21): warning C4189: 'a': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(319,12): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\GameSystem.cpp(320,12): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IntroductionPage.cpp
+  PageManager.cpp
+  Player.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(52,47): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(126,18): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(127,18): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(128,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(130,16): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(131,16): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(183,16): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(184,16): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(203,26): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(204,26): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(208,51): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(208,47): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(217,51): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(217,47): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(236,46): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(236,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\Player.cpp(254,21): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResultPage.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\ResultPage.cpp(101,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TitlePage.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\TitlePage.cpp(9,1): warning C4005: 'START_Y': 매크로 재정의
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\global.h(12): message : 'START_Y'의 이전 정의를 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\TitlePage.cpp(301,17): warning C4189: 'a': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\TitlePage.cpp(317,17): warning C4189: 'a': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  DXUTenum.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUTenum.cpp(3975,39): warning C4244: '초기화 중': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DXUTmisc.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Core\DXUTmisc.cpp(1263,13): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\qwer1\2021\기능대회_코드\105 시리즈\105\last\EmptyProject\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  EmptyProject.cpp
+  코드를 생성하고 있습니다...
+  
+EmptyProject.rc(34): error RC2135: file not found: ..\..\dxut\optional\directx.ico
+  
